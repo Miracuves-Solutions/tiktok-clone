@@ -3,9 +3,9 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxtok.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/tiktok-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/tiktok-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/tiktok-clone/#included)
 
-**MXTok** is a production-ready, white-label Tiktok clone: a complete short-video social platform with creator studio, monetization, and admin moderation — delivered with **100% source code ownership** in **6 working days**.
+**mxtok** is a production-ready, white-label Tiktok clone: a complete short-video social platform with creator studio, monetization, and admin moderation — delivered with **100% source code ownership** in **6 working days**.
 
 > 🎵 **See it running before you talk to anyone.** Live creator app, viewer web, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/tiktok-clone#demo). No sales call required.
 
@@ -80,10 +80,10 @@ Custom short-video platforms run $100k–$500k and 6–10 months. A proven white
 ## 📚 Resources
 
 - 📖 [Tiktok Clone — Full Solution Page](https://miracuves.com/tiktok-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Short-Video App Cost in 2026?](https://miracuves.com/tiktok-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Tiktok Clone Script in 2026](https://miracuves.com/tiktok-clone/blog/) features, pricing & launch guide
-- 🧠 [Why Vertical Video Beats Horizontal for the Next Decade](https://miracuves.com/tiktok-clone/blog/) lessons from TikTok & Reels
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/tiktok-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Short-Video App Cost in 2026?](https://miracuves.com/tiktok-clone#features) pricing breakdown & what's included
+- 📝 [Best Tiktok Clone Script in 2026](https://miracuves.com/tiktok-clone#features) features, pricing & launch guide
+- 🧠 [Why Vertical Video Beats Horizontal for the Next Decade](https://miracuves.com/tiktok-clone#features) lessons from TikTok & Reels
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/tiktok-clone#faq) every claim we make, verified
 
 ## 🏢 About Miracuves
 
@@ -106,7 +106,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Tiktok Clone
-{MX_NAME}         MXTok
+{MX_NAME}         mxtok
 {CATEGORY}        Short-Video & Social Platform
 {DEMO_WEB}        mxtok.mimeld.com
 {PRICE}           $4,899
